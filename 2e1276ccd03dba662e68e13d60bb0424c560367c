@@ -1,0 +1,1 @@
+{"jobID":"81f48375-1f30-3df2-f0b9-b9fac3ca37a5","spec":{"type":"policy","cause":{"Message":"","User":"Ben Wilson \u003cdoubtingben@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
